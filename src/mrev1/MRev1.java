@@ -9,6 +9,7 @@ import java.util.Scanner;
 /**
  *
  * @author kamal
+ * date
  */
 public class MRev1 {
 
