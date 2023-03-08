@@ -11,6 +11,7 @@ import java.util.Scanner;
  * @author kamal
  * date
  * fetch and merge
+ * pull
  */
 public class MRev1 {
     private String word1;
