@@ -31,6 +31,9 @@ public class MRev1 {
         Scanner sc = new Scanner(System.in);
         String word = sc.next();
         System.out.println(word);
+        
+        int num=sc.nextInt();
+        System.out.println(num);
         // TODO code application logic here
     }
     
