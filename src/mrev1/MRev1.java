@@ -10,6 +10,7 @@ import java.util.Scanner;
  *
  * @author kamal
  * date
+ * fetch and merge
  */
 public class MRev1 {
     private String word1;
