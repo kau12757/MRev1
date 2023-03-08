@@ -12,6 +12,15 @@ import java.util.Scanner;
  * date
  */
 public class MRev1 {
+    private String word1;
+
+    public MRev1(String word1) {
+        this.word1 = word1;
+    }
+
+    public String getWord1() {
+        return word1;
+    }
 
     /**
      * @param args the command line arguments
